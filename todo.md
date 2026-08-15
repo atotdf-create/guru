@@ -1,0 +1,21 @@
+# Project TODO - TDF TECH Guru
+
+- [x] Initialize project scaffolding and setup
+- [x] Create robust todo list and task plan
+- [x] Configure GitHub token (`<stored securely>`) and Grok API token (`<stored securely>`) as secure environment variables
+- [x] Implement robust backend tRPC router for Grok AI assistant (`server/routers.ts`)
+- [x] Build high-end neon-accented dark theme landing page with asymmetric hero, services, about, and contact sections (`client/src/pages/Home.tsx`)
+- [x] Implement interactive red/green doubled border and glow flash effects on pointer interaction with animated edge coloring
+- [x] Add floating Grok AI assistant chat widget with full chat modal and message streaming/response
+- [x] Run test suite (`pnpm test`), type check (`pnpm check`), and verify server status
+- [x] Save project checkpoint and prepare code for GitHub repository "guru" using provided token
+- [x] Connect supplied gsk credential through compatible AI endpoint and verify test suite
+- [x] Remove obsolete xAI-only validation test now that the supplied first key is verified through the compatible Groq endpoint
+- [x] Re-run full tests and type checks after removing obsolete validation
+- [x] Prepare git repository and instructions for GitHub repository 'guru' export via Management UI
+- [x] Push project code to GitHub repository 'guru' using provided credentials and integration path
+- [x] Rename TDF Grok AI to TDF Assistant across all UI labels and copy in Home.tsx
+- [x] Inspect GitHub repository availability for code viewing
+- [ ] Push the current TDF TECH code to the existing GitHub repository atotdf-create/guru
+- [ ] Initialize the empty GitHub guru repository before uploading the full source tree
+- [ ] Redact literal API credentials from project documentation before GitHub upload
